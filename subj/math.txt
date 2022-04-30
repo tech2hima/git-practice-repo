@@ -1,4 +1,4 @@
 practice
 subtraction
-multiplication
+modulus
 addition
