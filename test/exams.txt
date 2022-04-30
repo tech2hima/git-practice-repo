@@ -1,0 +1,4 @@
+maths
+telugu
+english 
+science
